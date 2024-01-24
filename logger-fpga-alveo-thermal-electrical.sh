@@ -2,7 +2,6 @@
 
 # This script is used to log the FPGA temperature and power usage of the Alveo card.
 # This script is run on the host machine and uses xbutil to get the temperature and power usage.
-# The output is written to a CSV file.
 
 count=0
 while true
